@@ -21,8 +21,9 @@ This lab demonstrates how to monitor a data warehouse in Microsoft Fabric using 
 
 ### 3. Explore Dynamic Management Views
 1. Run queries against system DMVs:
-2. 
-   ```sql
+ 
+   ```
+   sql
    
    -- View active connections
    
@@ -64,8 +65,9 @@ This lab demonstrates how to monitor a data warehouse in Microsoft Fabric using 
 
 ### 4. Explore Query Insights
 1. Query the query insights views:
-2. 
-   ```sql
+ 
+   ```
+   sql
    
    -- Query execution history
    
