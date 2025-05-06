@@ -1,4 +1,4 @@
-# Monitoring a Data Warehouse in Microsoft Fabric - Lab Guide
+# Monitoring a Data Warehouse in Microsoft Fabric 
 
 ## Overview
 This lab demonstrates how to monitor a data warehouse in Microsoft Fabric using Dynamic Management Views (DMVs) and Query Insights.
