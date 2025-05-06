@@ -98,3 +98,8 @@ This lab demonstrates how to monitor a data warehouse in Microsoft Fabric using 
   
 - Practical experience with Microsoft Fabric monitoring capabilities
 
+# 👤 Author >> Sefa Öztürk
+
+IT Trainee | Azure Data Engineer in progress
+
+📇 LinkedIn: https://www.linkedin.com/in/sefa-ozturk1972
